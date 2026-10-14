@@ -1,1 +1,0 @@
-%define SECTOR_COUNT 274
